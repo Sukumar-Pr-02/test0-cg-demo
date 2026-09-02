@@ -1,0 +1,6 @@
+git is an open source distributed version control system , it is used to manage and collabrate across teams 
+
+there are 3 main parts 
+1. repo
+2. branch
+3. changes 
