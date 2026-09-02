@@ -4,3 +4,8 @@ there are 3 main parts
 1. repo
 2. branch
 3. changes 
+
+we can also 
+1. push
+2. pull
+3. commit
